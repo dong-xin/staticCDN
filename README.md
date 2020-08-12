@@ -19,7 +19,7 @@ release version：github上发布的版本号
 - https://cdn.jsdelivr.net/gh/username/repository@release version/directory path/  
 不加文件名，则访问整个目录文件
 
->6.栗子：  
+>6.<font color='#ab430b'>栗子</font>：  
 https://cdn.jsdelivr.net/gh/dong-xin/staticCDN@v0.1/file/image/2020/08/IMG_1404-d213eb39453e49bdb1fc614a7e20d4d4.jpeg  
 https://cdn.jsdelivr.net/gh/dong-xin/staticCDN@master/file/image/2020/08/IMG_1404-d213eb39453e49bdb1fc614a7e20d4d4.jpeg  
 https://cdn.jsdelivr.net/gh/dong-xin/staticCDN@master/file/  
