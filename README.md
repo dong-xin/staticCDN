@@ -18,7 +18,6 @@ release version：github上发布的版本号
 -->勾选:是否预发布版-->确定发布  
 - https://cdn.jsdelivr.net/gh/username/repository@release version/directory path/  
 不加文件名，则访问整个目录文件
-- 自2021年下半年开始cdn.jsdeliver.net已无法使用，可以替换为fastly.jsdelivr.net、testingcf.jsdelivr.net、gcore.jsdelivr.net、quantil.jsdelivr.net
 
 >6.栗子：  
 https://cdn.jsdelivr.net/gh/dong-xin/staticCDN@v0.1/file/image/2020/08/IMG_1404-d213eb39453e49bdb1fc614a7e20d4d4.jpeg  

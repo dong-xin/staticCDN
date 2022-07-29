@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="nginx-compile">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/file/zip/2020/08/nginx-compile.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
