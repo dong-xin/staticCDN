@@ -1,4 +1,7 @@
 # staticCDN(静态资源CDN)  
+> 主要用于博客配图。  
+My blog：http://dreamalso.com
+
 >1.创建仓库(create repository)  
 2.git拉取到本地(git pull)  
 3.将js、image、MP3、MP4等文件加入到仓库中(git add)  
@@ -24,5 +27,3 @@ release version：github上发布的版本号
 https://cdn.jsdelivr.net/gh/dong-xin/staticCDN@v0.1/file/image/2020/08/IMG_1404-d213eb39453e49bdb1fc614a7e20d4d4.jpeg  
 https://cdn.jsdelivr.net/gh/dong-xin/staticCDN@master/file/image/2020/08/IMG_1404-d213eb39453e49bdb1fc614a7e20d4d4.jpeg  
 https://cdn.jsdelivr.net/gh/dong-xin/staticCDN@master/file/  
-  
- 
